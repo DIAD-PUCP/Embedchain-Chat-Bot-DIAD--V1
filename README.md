@@ -1,4 +1,7 @@
-# Embedchain-Chat-Bot-DIAD
+# Chat-Bot de atención DIAD
+
+Embedchain-Chat-Bot-DIAD--V1
+Versión: 1.0
 
 ## Descripción
 
