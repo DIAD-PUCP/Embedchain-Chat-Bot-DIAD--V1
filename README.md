@@ -69,4 +69,4 @@ Además cuenta con características adicionales que aportan valor en la usabilid
 
 ## Procesos derivados
 
-Este proyecto está basado en el código de [CodingNepal](www.codingnepalweb.com), que fueron adaptados y modificados a partir de las sugerencias de David Morgan.
+Este proyecto está basado en el código de [CodingNepal](www.codingnepalweb.com), que fue adaptado y modificado a partir de las sugerencias de David Morgan.
