@@ -65,5 +65,8 @@ Además cuenta con características adicionales que aportan valor en la usabilid
 - **Historial de conversaciones:** Las interacciones con el _chatbot_ se almacenan localmente, permitiendo al usuario revisar las conversaciones anteriores, consultar información específica o eliminar conversaciones que ya no sean necesarias.
 - **Temas personalizables:** El usuario puede elegir entre un tema claro u oscuro para la interfaz del _chatbot_, personalizando la experiencia visual según sus preferencias.
 - **Uso de avatares:** Se integran avatares en la interfaz para representar al usuario y al _chatbot_ durante la conversación, aportando un toque más humano y dinámico a la interacción.
-- **Uso de la información:** El usuario puede copiar fácilmente el texto de una respuesta del _chatbot_ al portapapeles, permitiendo guardar o compartir información relevante de manera rápida y sencilla.
+- **Uso de la información:** El usuario puede copiar fácilmente el texto de una respuesta del _chatbot_ al portapapeles, permitiendo guardar o compartir información relevante de manera rápida y sencilla.}
 
+## Procesos derivados
+
+Este proyecto está basado en el código de [CodingNepal](www.codingnepalweb.com), que fueron adaptados y modificados a partir de las sugerencias de David Morgan.
