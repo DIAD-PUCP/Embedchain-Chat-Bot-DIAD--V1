@@ -67,3 +67,6 @@ Además cuenta con características adicionales que aportan valor en la usabilid
 - **Uso de avatares:** Se integran avatares en la interfaz para representar al usuario y al _chatbot_ durante la conversación, aportando un toque más humano y dinámico a la interacción.
 - **Uso de la información:** El usuario puede copiar fácilmente el texto de una respuesta del _chatbot_ al portapapeles, permitiendo guardar o compartir información relevante de manera rápida y sencilla.
 
+## Procesos derivados
+
+Este proyecto está basado en el código de [CodingNepal](www.codingnepalweb.com), que fue adaptado y modificado a partir de las sugerencias de David Morgan.
