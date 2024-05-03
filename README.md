@@ -29,12 +29,18 @@ Esta versión del _chatbot_ requiere un archivo en formato `PDF` que contenga la
 
 ### API de Inteligencia Artificial
 
-Es necesario contar con una clave de la API de OpenAI, la cual se debe establecer como la  variable de entorno `OPENAI_API_KEY`. Para realizar la configuración puedes utilizar el siguiente código:
+Es necesario contar con una clave de la API de OpenAI, la cual se debe establecer como la  variable de entorno `OPENAI_API_KEY`. Para realizar la configuración se debe cargar la variable antes de ejecutar el cscript:
 
-```python
-import os
-os.environ["OPENAI_API_KEY"] = "<YOUR_API_KEY>"
+``` Bash
+OPEN_API_KEY=openapikey1234 python main.py
 ```
+O en el caso de Docker
+``` Bash
+docker run --name nombreimagen -e "OPEN_API_KEY=openapikey1234"  imagen
+```
+> [!WARNING]
+> La práctica recomendada es guardar esta variable en un archivo `.env` y cargarlo luego en el código.
+
 ## Funcionamiento
 
 Este código crea una aplicación web de _chatbot_ para responder preguntas sobre el contenido de un archivo `PDF`. Aquí's un desglose del funcionamiento:
